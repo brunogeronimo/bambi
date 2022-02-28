@@ -1,15 +1,15 @@
-@media only screen and (max-width: 999px) {
+.bambi-pic {
+  width: 30%;
+}
+
+@media screen and (max-width: 999px) {
   .bambi-pic {
     width: 50%;
   }
 }
 
-@media only screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
   .bambi-pic {
     width: 100%;
   }
-}
-
-.bambi-pic {
-  width: 30%;
 }
