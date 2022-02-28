@@ -8,7 +8,7 @@
   }
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (min-width: 1000px) {
   .bambi-pic {
     width: 30%;
   }
